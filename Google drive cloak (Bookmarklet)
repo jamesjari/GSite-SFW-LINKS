@@ -1,0 +1,1 @@
+javascript:(function(){var a=document.querySelector("link[rel*='icon']")||document.createElement("link");a.type="image/x-icon",a.rel="shortcut icon",a.href="https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_32dp.png",document.title="My Drive - Google Drive",console.log(document.title),document.getElementsByTagName("head")[0].appendChild(a)})();
